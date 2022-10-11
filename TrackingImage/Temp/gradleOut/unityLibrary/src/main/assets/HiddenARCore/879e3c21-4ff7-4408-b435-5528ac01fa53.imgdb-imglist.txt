@@ -1,0 +1,2 @@
+1f0731a76b564a649baa797c26daf672|Assets/Texture/spider.jpg|0.1
+2aaf949b206542869f6acc343a17871a|Assets/Texture/shoe.jpg|0.1
